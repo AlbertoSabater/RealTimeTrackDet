@@ -185,6 +185,7 @@ def main():
 	 	
 	 	# Show frame and predictions
 		cv2.imshow('input', frame)
+		if num_frame == 2: cv2.waitKey(0)
 	
 	cv2.destroyAllWindows()
 	
