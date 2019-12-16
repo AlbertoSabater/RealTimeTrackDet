@@ -40,3 +40,5 @@ Change to Detection mode by pressing _R_ again.
 Press _Q_ to exit execution.
 
 `python demo.py video_1.mp4`
+
+![](test_data/video_1.gif)
