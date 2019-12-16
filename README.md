@@ -1,6 +1,6 @@
 # RealTimeTrackDet
 
-This repository implements [CenterNet]() and [SiamMask]() projects in a demo to perform Real Time Tacking and Detection on videos.
+This repository implements [CenterNet](https://github.com/xingyizhou/CenterNet) and [SiamMask](https://github.com/foolwood/SiamMask) projects in a demo to perform Real Time Tacking and Detection on videos.
 
 ## Dependencies
 
