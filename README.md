@@ -1,6 +1,6 @@
 # RealTimeTrackDet
 
-This repository implements [CenterNet](https://github.com/xingyizhou/CenterNet) and [SiamMask](https://github.com/foolwood/SiamMask) projects in a demo to perform Real Time Tacking and Detection on videos.
+This repository implements [CenterNet](https://github.com/xingyizhou/CenterNet) [1] and [SiamMask](https://github.com/foolwood/SiamMask) [2] projects in a demo to perform Real Time Tacking and Detection on videos.
 
 ## Dependencies
 
@@ -42,3 +42,12 @@ Press _Q_ to exit execution.
 `python demo.py video_1.mp4`
 
 ![](test_data/video_1.gif)
+
+___
+
+[1] *Objects as Points*  
+Zhou, Xingyi and Wang, Dequan and Kr{\"a}henb{\"u}hl, Philippo  
+2019  
+[2] *Fast Online Object Tracking and Segmentation: A Unifying Approach*   
+Qiang Wang*, Li Zhang*, Luca Bertinetto*, Weiming Hu, Philip H.S. Torr (* denotes equal contribution)  
+CVPR 2019
