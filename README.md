@@ -45,9 +45,9 @@ Press _Q_ to exit execution.
 
 ___
 
-[1] *Objects as Points*  
+[1] **Objects as Points**  
 Zhou, Xingyi and Wang, Dequan and Kr{\"a}henb{\"u}hl, Philippo  
 2019  
-[2] *Fast Online Object Tracking and Segmentation: A Unifying Approach*   
+[2] **Fast Online Object Tracking and Segmentation: A Unifying Approach**   
 Qiang Wang*, Li Zhang*, Luca Bertinetto*, Weiming Hu, Philip H.S. Torr (* denotes equal contribution)  
 CVPR 2019
