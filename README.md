@@ -4,7 +4,7 @@ This repository implements [CenterNet](https://github.com/xingyizhou/CenterNet) 
 
 ## Dependencies
 
-This code uses Pytorch 1.2 so, proper NVIDIA drivers and CUDA 10 must be installed.
+This code uses Pytorch 1.2 so, proper NVIDIA drivers and CUDA 10.1 must be installed.
 
 ## Install
 
